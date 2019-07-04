@@ -6,3 +6,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [James Stanley](https://incoherency.co.uk/blog/): Countdown solver among other things
 * [Anu Garg](https://wordsmith.org/anu/index.html): Creator of [anagram maker](https://wordsmith.org/anagram/)
 * [ptarmigan labs](https://ptarmiganlabs.com/): Specs on HP 6632A
+* [Paul Graham](http://www.paulgraham.com/index.html): Many things, but I'm going to say lisp programmer?

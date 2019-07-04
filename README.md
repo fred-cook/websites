@@ -7,3 +7,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Anu Garg](https://wordsmith.org/anu/index.html): Creator of [anagram maker](https://wordsmith.org/anagram/)
 * [ptarmigan labs](https://ptarmiganlabs.com/): Specs on HP 6632A
 * [Paul Graham](http://www.paulgraham.com/index.html): Many things, but I'm going to say lisp programmer?
+* [Peter Norivg](http://www.norvig.com/): First encountered for solving every sudoku, lots of other things

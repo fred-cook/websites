@@ -9,3 +9,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Paul Graham](http://www.paulgraham.com/index.html): Many things, but I'm going to say lisp programmer?
 * [Peter Norivg](http://www.norvig.com/): First encountered for solving every sudoku, lots of other things
 * [Ron Garret](http://rongarret.info/): Another lisper, interesting blog
+* [Mark Owen](https://www.quinapalus.com/): Crossword software creator among many things

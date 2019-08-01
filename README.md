@@ -10,3 +10,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Peter Norivg](http://www.norvig.com/): First encountered for solving every sudoku, lots of other things
 * [Ron Garret](http://rongarret.info/): Another lisper, interesting blog
 * [Mark Owen](https://www.quinapalus.com/): Crossword software creator among many things
+* [Museum of endangered sounds](http://savethesounds.info/): Just sounds

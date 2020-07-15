@@ -12,3 +12,6 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Mark Owen](https://www.quinapalus.com/): Crossword software creator among many things
 * [Museum of endangered sounds](http://savethesounds.info/): Just sounds
 * [Alan Burlison](http://bleaklow.com/): Arduino stuff, among other things
+* [John Baez](http://math.ucr.edu/home/baez/README.html): Mathematical Physicist with many interests
+* [Bozhidar Zakhariev Iliev](http://theo.inrne.bas.bg/%7Ebozho/index.php): This website is incredible
+* [Richard Evan Schwartz](https://www.math.brown.edu/%7Eres/): The maths is beyond me, but the creative section is fun

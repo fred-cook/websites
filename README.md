@@ -16,3 +16,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Bozhidar Zakhariev Iliev](http://theo.inrne.bas.bg/%7Ebozho/index.php): This website is incredible
 * [Richard Evan Schwartz](https://www.math.brown.edu/%7Eres/): The maths is beyond me, but the creative section is fun
 * [Steve Weyer](https://communicrossings.com/): Possibly some crossword theme fitting insight
+* [Chuck Moore](https://colorforth.github.io/): Co-inventor of forth

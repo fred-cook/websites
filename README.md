@@ -19,3 +19,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Chuck Moore](https://colorforth.github.io/): Co-inventor of forth
 * [Luc Devroye](http://luc.devroye.org/rnbookindex.html): Book on random number generation + the homepage is good
 * [Pat Devin](http://opendatastructures.org/): Collection of free computer science resources
+* [Jakub Holy](https://blog.jakubholy.net/): Developer, mostly clojure related

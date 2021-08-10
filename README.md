@@ -22,3 +22,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Jakub Holy](https://blog.jakubholy.net/): Developer, mostly clojure related
 * [Mark Watson](https://markwatson.com/): AI expert, often using lisps
 * [Thomas Mattacchione](https://betweentwoparens.com): Useful articles on clojure, particularly beginning with clojure/clojurescript
+* [Jakub Łukasiewicz](https://resources.joren.ga/): A better list of resources than this one

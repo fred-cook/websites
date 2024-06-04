@@ -26,3 +26,7 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Daniel Stefanovic](https://github.com/danistefanovic/build-your-own-x): Examples of projects to build in various languages
 * [Paul Henderson](https://phionline.net.nz/): Cryptic Crossword setter and mathematician
 * [Alex Chan](https://alexwlchan.net/): Archiver and python programmer
+* [Max BernStein](https://bernsteinbear.com/): C and Python
+* [Hynek Schlawak](https://hynek.me/): Python and Go
+* [glyph](https://blog.glyph.im/): Python and general
+* [Paul Ganssle](https://blog.ganssle.io/): Python (good datetime discussion)

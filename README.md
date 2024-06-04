@@ -25,3 +25,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Jakub Łukasiewicz](https://resources.joren.ga/): A better list of resources than this one
 * [Daniel Stefanovic](https://github.com/danistefanovic/build-your-own-x): Examples of projects to build in various languages
 * [Paul Henderson](https://phionline.net.nz/): Cryptic Crossword setter and mathematician
+* [Alex Chan](https://alexwlchan.net/): Archiver and python programmer

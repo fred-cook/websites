@@ -30,3 +30,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Hynek Schlawak](https://hynek.me/): Python and Go
 * [glyph](https://blog.glyph.im/): Python and general
 * [Paul Ganssle](https://blog.ganssle.io/): Python (good datetime discussion)
+* [Arie Bovenberg](https://dev.arie.bovenberg.net/): Developing datetime library for Python called [`whenever`](https://github.com/ariebovenberg/whenever)

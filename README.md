@@ -31,3 +31,5 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [glyph](https://blog.glyph.im/): Python and general
 * [Paul Ganssle](https://blog.ganssle.io/): Python (good datetime discussion)
 * [Arie Bovenberg](https://dev.arie.bovenberg.net/): Developing datetime library for Python called [`whenever`](https://github.com/ariebovenberg/whenever)
+* [Les Earnest](https://web.stanford.edu/~learnest/): Old school programmer, all round interesting chap
+* [Larry Tesler](https://www.nomodes.com/): Known for inventing copy and paste, but had his finger in many pies

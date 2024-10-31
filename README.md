@@ -34,3 +34,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Les Earnest](https://web.stanford.edu/~learnest/): Old school programmer, all round interesting chap
 * [Larry Tesler](https://www.nomodes.com/): Known for inventing copy and paste, but had his finger in many pies
 * [Matt Gilbert](https://richlyevocative.net): Bristol native, with nice articles about Bristol among other things
+* [Anders Hovmoller](https://kodare.net/): mutmut developer, general python and clojure

@@ -35,3 +35,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Larry Tesler](https://www.nomodes.com/): Known for inventing copy and paste, but had his finger in many pies
 * [Matt Gilbert](https://richlyevocative.net): Bristol native, with nice articles about Bristol among other things
 * [Anders Hovmoller](https://kodare.net/): mutmut developer, general python and clojure
+* [Armin Ronacher](https://lucumr.pocoo.org/): Python developer, worked on lots of open source projects such as flask, sphinx, click...

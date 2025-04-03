@@ -38,3 +38,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Armin Ronacher](https://lucumr.pocoo.org/): Python developer, worked on lots of open source projects such as flask, sphinx, click...
 * [Sean Goedecke](https://www.seangoedecke.com/): End to end software development, LLMs
 * [Alex Harri](https://alexharri.com/): Creating graphic tools
+* [Salvatore Sanfilippo](https://antirez.com/latest/0): Intersting AI thoughts, redis dev

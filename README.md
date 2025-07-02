@@ -39,3 +39,4 @@ When researching ideas or looking for code snippets I sometimes come across smal
 * [Sean Goedecke](https://www.seangoedecke.com/): End to end software development, LLMs
 * [Alex Harri](https://alexharri.com/): Creating graphic tools
 * [Salvatore Sanfilippo](https://antirez.com/latest/0): Intersting AI thoughts, redis dev
+* [A. Jesse Jiryu Davis](https://emptysqua.re/blog/): Pythonista, MongoDB researcher, climber
